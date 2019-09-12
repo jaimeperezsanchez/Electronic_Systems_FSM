@@ -1,4 +1,6 @@
-# isel2018
+# Ingeniería de Sistemas Electrónicos
+## Repositorio de la asignatura ISEL (2018) 
+## Competencias: Máquinas de estádo en C, sistemas electrónicos de tiempo real y verificación formal
 
 JAIME PEREZ SANCHEZ 
 
