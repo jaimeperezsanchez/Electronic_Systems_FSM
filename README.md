@@ -3,5 +3,5 @@
 ### Competencias: Máquinas de estádo en C, sistemas electrónicos de tiempo real y verificación formal con SPIN
 
 Autores:
-Jaime Pérez Sánchez
-Sergio Pérez Morillo
+
+Jaime Pérez Sánchez y Sergio Pérez Morillo
