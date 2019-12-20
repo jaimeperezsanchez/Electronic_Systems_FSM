@@ -1,0 +1,3 @@
+La verificación formal, en ingeniería y en computación, es un método de validación estática (se valida a través del propio código del programa, a partir de una abstracción o de una representación simbólica) en el que, partiendo de un conjunto axiomático, reglas de inferencia y algún lenguaje lógico (en este caso PROMELA), se puede encontrar una demostración o prueba de corrección de un programa, algoritmo, etc, aunque también se puede encontrar su refutación.
+
+Es un método necesario para probar cualquier programa o teoría pero, aunque sea satisfactoria, no asegura que la solución sea del todo correcta. 
