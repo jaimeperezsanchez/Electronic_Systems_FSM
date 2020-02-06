@@ -4,5 +4,6 @@
 Plataforma de desarrollo: Wemos D1 mini
 ![alt text](esp8266-wemos-d1-mini-pinout.png)
 
-Autores:
-Jaime Pérez Sánchez y Sergio Pérez Morillo
+Project developed collaboratively with [Sergio Pérez][1]
+
+[1]: https://github.com/spmorillo
